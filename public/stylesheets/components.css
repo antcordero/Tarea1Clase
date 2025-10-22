@@ -1,0 +1,26 @@
+/*HTML : 16px
+H1: 2.5rem
+H2 Hero: 3rem
+H2 Secciones: 2.5rem
+H3 Tarjetas: 1.8rem
+H3 Off-canvas: 2rem*/
+
+h1 {
+    font-size: 2.5rem;
+}
+
+h2 {
+    font-size: 3rem;
+}
+
+.hero-section h2 {
+    font-size: 2.5rem;
+}
+
+.card h3 {
+    font-size: 1.8rem;
+}
+
+.menu-off-canvas h3 {
+    font-size: 2rem;
+}
